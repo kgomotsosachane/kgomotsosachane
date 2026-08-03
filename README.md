@@ -113,6 +113,6 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 
 <div align="center">
 
-### ⭐ *"Turning data into insights, and insights into impact."*
+### *"Turning data into insights, and insights into impact."*
 
 </div>
