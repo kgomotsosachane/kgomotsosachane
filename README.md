@@ -69,9 +69,10 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/dbt" width="48" height="48"/><br><strong>dbt</strong>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg"
+       width="48" height="48" alt="dbt"/><br>
+  <strong>dbt</strong>
 </td>
-</tr>
 
 <tr>
 <td align="center" width="96">
