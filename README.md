@@ -26,21 +26,31 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 </p>
 
 ### Data Engineering
+<h3 align="left">🛠️ Data Engineering</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <a href="https://www.databricks.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="50" height="50"/>
+  </a>
+  <a href="https://spark.apache.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="50" height="50"/>
+  </a>
+  <a href="https://www.getdbt.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/dbt" alt="dbt" width="50" height="50"/>
+  </a>
+  <a href="https://airflow.apache.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="50" height="50"/>
+  </a>
 </p>
 
 ### Cloud & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker" />
 </p>
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
@@ -64,18 +74,6 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 - ✅ Deploy cloud-based data pipelines on AWS
 - ✅ Contribute to open-source projects
 - ✅ Land a Data Engineering role
-
----
-
-## 📂 Featured Projects
-
-🚧 Coming soon...
-
-- 📊 ETL Pipeline with Python
-- ☁️ AWS Data Engineering Pipeline
-- 🧱 Databricks + PySpark Project
-- 📈 dbt Analytics Project
-- ☕ Java Applications
 
 ---
 
