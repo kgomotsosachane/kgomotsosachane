@@ -20,40 +20,13 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 ---
 ## 🛠️ Tech Stack
 
-### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,bash,aws,docker,git,github,vscode,idea" />
+  <img src="https://cdn.simpleicons.org/databricks" width="48" alt="Databricks"/>
+  <img src="https://cdn.simpleicons.org/apachespark" width="48" alt="Apache Spark"/>
+  <img src="https://cdn.simpleicons.org/dbt" width="48" alt="dbt"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow" width="48" alt="Apache Airflow"/>
 </p>
-
-### Data Engineering
-<h3 align="left">🛠️ Data Engineering</h3>
-
-<p align="left">
-  <a href="https://www.databricks.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="50" height="50"/>
-  </a>
-  <a href="https://spark.apache.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="50" height="50"/>
-  </a>
-  <a href="https://www.getdbt.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/dbt" alt="dbt" width="50" height="50"/>
-  </a>
-  <a href="https://airflow.apache.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="50" height="50"/>
-  </a>
-</p>
-
-### Cloud & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker" />
-</p>
-
-### Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -82,14 +55,6 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kgomotsosachane&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgomotsosachane&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kgomotsosachane&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
