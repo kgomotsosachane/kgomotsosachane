@@ -20,12 +20,66 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 ---
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,bash,aws,docker,git,github,vscode,idea" />
-  <img src="https://cdn.simpleicons.org/databricks" width="48" alt="Databricks"/>
-  <img src="https://cdn.simpleicons.org/apachespark" width="48" alt="Apache Spark"/>
-  <img src="https://cdn.simpleicons.org/dbt" width="48" alt="dbt"/>
-  <img src="https://cdn.simpleicons.org/apacheairflow" width="48" alt="Apache Airflow"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="55" />
+</p>
+
+---
+
+### 📊 Data Engineering
+
+<p align="left">
+  <a href="https://www.databricks.com">
+    <img src="https://cdn.simpleicons.org/databricks" alt="Databricks" width="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org">
+    <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.getdbt.com">
+    <img src="https://cdn.simpleicons.org/dbt" alt="dbt" width="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://airflow.apache.org">
+    <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="55"/>
+  </a>
+</p>
+
+---
+
+### ☁️ Cloud & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55"/>
+</p>
+
+---
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="55"/>
 </p>
 
 ## 📚 Currently Learning
