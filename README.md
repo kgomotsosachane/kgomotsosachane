@@ -42,11 +42,6 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><strong>JavaScript</strong>
 </td>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><strong>Tailwind CSS</strong>
-</td>
-</tr>
-
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><strong>MySQL</strong>
