@@ -23,82 +23,79 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br>
-<strong>Python</strong>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><strong>Python</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>
-<strong>Java</strong>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br><strong>Java</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>
-<strong>MySQL</strong>
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br><strong>HTML5</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br>
-<strong>Bash</strong>
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br><strong>CSS3</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks"/><br>
-<strong>Databricks</strong>
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><strong>JavaScript</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/apachespark" width="48" height="48" alt="Apache Spark"/><br>
-<strong>PySpark</strong>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><strong>Tailwind CSS</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/dbt" width="48" height="48" alt="dbt"/><br>
-<strong>dbt</strong>
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><strong>MySQL</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/apacheairflow" width="48" height="48" alt="Apache Airflow"/><br>
-<strong>Airflow</strong>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br><strong>PostgreSQL</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br>
-<strong>AWS</strong>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br><strong>AWS</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>
-<strong>PostgreSQL</strong>
+<img src="https://cdn.simpleicons.org/databricks" width="48" height="48"/><br><strong>Databricks</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>
-<strong>Docker</strong>
+<img src="https://cdn.simpleicons.org/apachespark" width="48" height="48"/><br><strong>PySpark</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
-<strong>Git</strong>
+<img src="https://cdn.simpleicons.org/dbt" width="48" height="48"/><br><strong>dbt</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>
-<strong>GitHub</strong>
+<img src="https://cdn.simpleicons.org/apacheairflow" width="48" height="48"/><br><strong>Airflow</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>
-<strong>VS Code</strong>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><strong>Git</strong>
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/><br>
-<strong>IntelliJ</strong>
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><strong>GitHub</strong>
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><strong>VS Code</strong>
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><strong>IntelliJ</strong>
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/junit5" width="48" height="48"/><br><strong>JUnit</strong>
 </td>
 </tr>
 </table>
