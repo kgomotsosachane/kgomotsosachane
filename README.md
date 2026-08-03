@@ -69,8 +69,9 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 </td>
 
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg"
-       width="48" height="48" alt="dbt"/><br>
+  <img src="https://raw.githubusercontent.com/kgomotsosachane/kgomotsosachane/main/assets/dbt.png"
+       width="48" height="48"
+       alt="dbt"/><br>
   <strong>dbt</strong>
 </td>
 
