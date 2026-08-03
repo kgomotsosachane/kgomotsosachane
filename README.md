@@ -79,6 +79,14 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 </td>
 
 <td align="center" width="96">
+<img src="https://cdn.simpleicons.org/pytest" width="48" height="48"/><br><strong>pytest</strong>
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/junit5" width="48" height="48"/><br><strong>JUnit</strong>
+</td>
+
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><strong>Git</strong>
 </td>
 
@@ -89,13 +97,11 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><strong>VS Code</strong>
 </td>
+</tr>
 
+<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><strong>IntelliJ</strong>
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/junit5" width="48" height="48"/><br><strong>JUnit</strong>
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><strong>IntelliJ IDEA</strong>
 </td>
 </tr>
 </table>
