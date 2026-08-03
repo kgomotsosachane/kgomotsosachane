@@ -42,6 +42,11 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><strong>JavaScript</strong>
 </td>
 
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><strong>MySQL</strong>
@@ -70,10 +75,6 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/apacheairflow" width="48" height="48"/><br><strong>Airflow</strong>
-</td>
-
-<td align="center" width="96">
 <img src="https://cdn.simpleicons.org/pytest" width="48" height="48"/><br><strong>pytest</strong>
 </td>
 
@@ -92,9 +93,7 @@ I'm an aspiring **Data Engineer** with a passion for transforming raw data into 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><strong>VS Code</strong>
 </td>
-</tr>
 
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/><br><strong>IntelliJ IDEA</strong>
 </td>
