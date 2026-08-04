@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 I'm an aspiring **Data Engineer** with a passion for transforming raw data into meaningful insights through modern cloud technologies and scalable data pipelines.
 
