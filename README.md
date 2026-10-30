@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kgomotso Sachane</h1>
-<h3 align="center">Software Developer | Data Engineering | Python • Java • SQL • PySpark • dbt</h3>
+<h3 align="center">Software Developer | Data Engineering | Python • Java • PHP • SQL • dbt</h3>
 
 <p align="center">
   <em>I build clean, tested software and the data pipelines that power it.</em>
@@ -11,7 +11,7 @@
 
 I'm a **software developer with a strong data focus**. I enjoy writing maintainable, well-tested code and using it to build reliable, scalable data solutions, from application logic to data pipelines.
 
-- 💡 Software engineering foundations in **Java, Python, and JavaScript**
+- 💡 Software engineering foundations in **Java, Python, PHP, and JavaScript**
 - 🗄️ Data skills in **SQL, PySpark, and dbt**
 - 🧪 Test-driven mindset with **pytest** and **JUnit**
 - 🎯 Goal: Become a professional **Software / Data Engineer**
@@ -23,7 +23,9 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 
 | | |
 |---|---|
-| **Software Development** | Object-oriented programming, clean code, version control, unit testing, and web development (HTML, CSS, JavaScript, Tailwind) |
+| **Software Development** | Object-oriented programming, clean code, version control, and unit testing |
+| **Web Development** | Building responsive websites and web applications with HTML, CSS, JavaScript, Tailwind CSS, and PHP |
+| **Databases** | Designing relational databases, writing optimised SQL queries, and working with MySQL and PostgreSQL |
 | **Data Engineering** | ETL/ELT pipelines, data modelling, data warehousing, and transformations with PySpark and dbt |
 
 ---
@@ -35,6 +37,7 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><strong>Python</strong></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br><strong>Java</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br><strong>PHP</strong></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><strong>JavaScript</strong></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br><strong>HTML5</strong></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br><strong>CSS3</strong></td>
@@ -64,9 +67,16 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 </tr>
 </table>
 
+
 ## 📚 Currently Learning
 
 - ⚡ PySpark
 - 🛠️ dbt
 - 🔄 Apache Airflow
 - 📊 Data Warehousing & 📦 ETL Pipelines
+
+<div align="center">
+
+### *"Writing code that works, and data pipelines that last."*
+
+</div>
