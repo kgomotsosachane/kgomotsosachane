@@ -64,30 +64,9 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-> Add your best 2–3 projects here. Aim for one software project and one data project.
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](link)** | One line on what it does and the problem it solves | Java, JUnit |
-| **[Data Pipeline Name](link)** | End-to-end ETL pipeline from ingestion to analytics | PySpark, SQL |
-| **[Project Name](link)** | Short description and outcome | Python, SQL, dbt |
-
----
-
 ## 📚 Currently Learning
 
 - ⚡ PySpark
 - 🛠️ dbt
 - 🔄 Apache Airflow
 - 📊 Data Warehousing & 📦 ETL Pipelines
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgomotso-sachane)
-[![Gi
