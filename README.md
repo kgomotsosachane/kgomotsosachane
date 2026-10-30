@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kgomotso Sachane</h1>
-<h3 align="center">Software Developer | Data Engineering | Python • Java • SQL • AWS • Databricks</h3>
+<h3 align="center">Software Developer | Data Engineering | Python • Java • SQL • PySpark • dbt</h3>
 
 <p align="center">
   <em>I build clean, tested software and the data pipelines that power it.</em>
@@ -9,13 +9,12 @@
 
 ## 💻 About Me
 
-I'm a **software developer with a strong data focus**. I enjoy writing maintainable, well-tested code and using it to build reliable, scalable data solutions, from application logic to cloud-based pipelines.
+I'm a **software developer with a strong data focus**. I enjoy writing maintainable, well-tested code and using it to build reliable, scalable data solutions, from application logic to data pipelines.
 
 - 💡 Software engineering foundations in **Java, Python, and JavaScript**
-- 🗄️ Data skills in **SQL, PySpark, Databricks, and dbt**
-- ☁️ Building on **AWS** for cloud-native data engineering
+- 🗄️ Data skills in **SQL, PySpark, and dbt**
 - 🧪 Test-driven mindset with **pytest** and **JUnit**
-- 🎯 Goal: Become a professional **Software / Cloud Data Engineer**
+- 🎯 Goal: Become a professional **Software / Data Engineer**
 - 💬 Ask me about **Java, Python, SQL, Git, and data engineering fundamentals**
 
 ---
@@ -26,7 +25,6 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 |---|---|
 | **Software Development** | Object-oriented programming, clean code, version control, unit testing, and web development (HTML, CSS, JavaScript, Tailwind) |
 | **Data Engineering** | ETL/ELT pipelines, data modelling, data warehousing, and transformations with PySpark and dbt |
-| **Cloud & Platforms** | AWS and Databricks for scalable storage, processing, and analytics |
 
 ---
 
@@ -44,13 +42,11 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 </tr>
 </table>
 
-### Data & Cloud
+### Data
 <table>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br><strong>MySQL</strong></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br><strong>PostgreSQL</strong></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br><strong>AWS</strong></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="48" height="48"/><br><strong>Databricks</strong></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachespark" width="48" height="48"/><br><strong>PySpark</strong></td>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/kgomotsosachane/kgomotsosachane/main/assets/dbt.png" width="48" height="48" alt="dbt"/><br><strong>dbt</strong></td>
 </tr>
@@ -77,15 +73,14 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 | Project | Description | Tech |
 |---|---|---|
 | **[Project Name](link)** | One line on what it does and the problem it solves | Java, JUnit |
-| **[Data Pipeline Name](link)** | End-to-end ETL pipeline from ingestion to analytics | PySpark, Databricks, AWS |
+| **[Data Pipeline Name](link)** | End-to-end ETL pipeline from ingestion to analytics | PySpark, SQL |
 | **[Project Name](link)** | Short description and outcome | Python, SQL, dbt |
 
 ---
 
 ## 📚 Currently Learning
 
-- ☁️ AWS Cloud Data Engineering
-- 🧱 Databricks & ⚡ PySpark
+- ⚡ PySpark
 - 🛠️ dbt
 - 🔄 Apache Airflow
 - 📊 Data Warehousing & 📦 ETL Pipelines
@@ -94,12 +89,5 @@ I'm a **software developer with a strong data focus**. I enjoy writing maintaina
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kgomotsosachane)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<div align="center">
-
-### *"Writing code that works, and data pipelines that last."*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgomotso-sachane)
+[![Gi
